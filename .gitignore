@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large datasets
+dataset/
+*.tsv
+*.csv
+*.parquet
+
+# ML models
+models/
+
+# Generated outputs
+output/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
